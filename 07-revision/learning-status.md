@@ -16,7 +16,8 @@ This confirmation concerns the playlists. It does not establish completion of ev
 - Cybersecurity fundamentals: topic notes and a handbook are maintained in `01-cybersecurity-fundamentals/`.
 - Linux for cybersecurity: topic notes, a 10-video episode index, and a handbook are maintained in `02-linux-for-cybersecurity/`.
 - CCNA: the learner previously said the course is in progress and requested that notes be deferred. See `03-networking-ccna/README.md`.
-- Python, web security, and standalone tools/labs: no course completion or lab results are recorded here.
+- Python and standalone tools/labs: no course completion or lab results are recorded here.
+- Cloud Security: not yet started. The learner will provide the studied resource before topic notes are created.
 
 ## Other local material found during repository review
 

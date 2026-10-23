@@ -1,3 +1,3 @@
 # Revision
 
-Use the topic-level "Revision points" lists for quick review. The [glossary](glossary.md) collects recurring terms across the current notes.
+Use the topic-level revision points and exercises for review. The [glossary](glossary.md) collects recurring terms. The [learning status](learning-status.md) separates user-confirmed course progress from repository coverage and future study.

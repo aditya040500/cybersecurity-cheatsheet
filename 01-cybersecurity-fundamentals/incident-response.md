@@ -17,6 +17,16 @@ Incident response provides an organized way to handle suspected or confirmed sec
 
 Organizations may name or combine these stages differently. Follow the approved incident plan and applicable reporting requirements.
 
+### Decision points
+
+| Decision | Information to establish |
+| --- | --- |
+| Is this an incident? | Validate the signal and apply the organization's incident criteria. |
+| How severe is it? | Scope affected assets, data, accounts, service impact, and safety concerns. |
+| What containment is safe? | Consider ongoing harm, business continuity, dependencies, and evidence preservation. |
+| Who must be engaged? | Follow escalation roles, legal/privacy requirements, and communications plans. |
+| Is recovery complete? | Confirm the cause is addressed, systems are monitored, and the owner approves return to service. |
+
 ## Evidence and communication
 
 Keep a clear timeline, record actions and decision-makers, preserve relevant logs and artifacts according to policy, and restrict access to sensitive incident material. Coordinate communications through designated roles. Avoid changing affected systems before evidence needs and containment trade-offs have been considered.
@@ -40,7 +50,15 @@ A SIEM alert shows a privileged account used from an unusual location. An analys
 - Track a timeline, communicate through assigned channels, and verify recovery.
 - Use lessons learned to improve readiness and controls.
 
+## Revision exercises
+
+1. A suspicious sign-in generates an alert. What should happen before deciding it is a confirmed incident?
+2. Give an example where immediate containment could affect evidence or service availability.
+3. Name four items to record in an incident timeline.
+4. What evidence supports a decision to return a host to service?
+
 ## References
 
 - [Google Cybersecurity Certificate playlist](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6ocTMdhDwwmfjaNv134KcWn)
 - [Google course curriculum](https://grow.google/intl/en_in/cybersecurity-course)
+- [NIST SP 800-61 Rev. 3: Incident Response Recommendations and Considerations](https://csrc.nist.gov/pubs/sp/800/61/r3/final)

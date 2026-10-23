@@ -1,9 +1,10 @@
 # Linux for Cybersecurity
 
-Command-line notes for safe navigation, file inspection, permissions, process review, package updates, and network checks.
+Beginner Linux study notes for safe command-line practice and basic host review. The section contains topic references and a separate set of notes for every video in NetworkChuck's [Linux for Hackers playlist](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL).
 
-## Notes
+## Start here
 
+- [Episode-by-episode index](episodes/README.md) - all 10 playlist videos, each linked to its original video and an individual note.
 - [Command reference](linux-commands.md)
 - [Help and terminal workflow](terminal-workflow.md)
 - [Files and directories](files-and-directories.md)
@@ -11,10 +12,15 @@ Command-line notes for safe navigation, file inspection, permissions, process re
 - [Processes and services](processes-and-services.md)
 - [Package management](package-management.md)
 - [Networking commands](networking-commands.md)
+- [Final revision checklist](revision-checklist.md)
 - [PDF handbook](linux-for-cybersecurity.pdf)
 
-## Source and scope
+## Learning status
 
-Primary reference: [NetworkChuck's Linux for Hackers playlist](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL). Its public feed exposed titles for episodes 1-8 and two related videos, but not transcripts. Titles identify filesystem, help, users and `sudo`, package management, services, processes, and terminal/web topics. The public [episode 1 description](https://www.youtube.com/watch?v=VbEx7B_PTOE) also exposes chapters for `pwd`, `ls`, and `cd`. The handbook follows that topic sequence; command details are described from standard documentation and are not attributed to specific lessons where chapter-level evidence was unavailable.
+The learner has confirmed completing the playlist in conversation. That confirmation records course progress; it does not claim completion of every optional lab or independent exercise. The episode notes are study references, not lab-result records.
 
-Commands are labeled as inspection, modification, or elevated actions. Examples are illustrative and do not imply they were run on a Linux host. Check your distribution's manual pages and local policy before modifying a system.
+## Sources and safety
+
+The public playlist feed lists 10 videos. Video descriptions and chapters give direct topic evidence for many episodes, but a complete transcript was not available consistently. Each episode page identifies the evidence available and links supporting manuals. Commands use Debian/Kali examples where relevant. Inspect before changing state, use a disposable VM for practice, and do not test systems without authorization.
+
+Commands that inspect state are distinguished from commands that write files, install packages, change identity, start or stop services, or terminate processes. Example behavior is described without presenting unrun output as a test result.

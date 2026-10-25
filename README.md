@@ -8,7 +8,7 @@ Personal study notes and technical references for cybersecurity fundamentals, Li
 | --- | --- |
 | [01 - Cybersecurity fundamentals](01-cybersecurity-fundamentals/README.md) | Security principles, beginner network concepts, risk, controls, and incident response |
 | [02 - Linux for cybersecurity](02-linux-for-cybersecurity/README.md) | Topic references and individual notes for all 10 videos in the NetworkChuck playlist |
-| [03 - Networking / CCNA](03-networking-ccna/README.md) | CCNA study notes remain deferred while the course is in progress |
+| [03 - Networking](03-networking-ccna/README.md) | CCNA study notes remain deferred while the course is in progress |
 | [04 - Python for cybersecurity](04-python-for-cybersecurity/README.md) | Beginner notes and a PDF based on the Google Cybersecurity Certificate Python video |
 | [05 - Cloud security](05-cloud-security/README.md) | Future study focus; notes will be based on resources provided after study |
 | [06 - Tools and labs](06-tools-and-labs/README.md) | No lab results recorded in this repository |

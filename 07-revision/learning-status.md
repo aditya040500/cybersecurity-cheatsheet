@@ -15,7 +15,7 @@ This confirmation concerns the playlists. It does not establish completion of ev
 
 - Cybersecurity fundamentals: topic notes and a handbook are maintained in `01-cybersecurity-fundamentals/`.
 - Linux for cybersecurity: topic notes, a 10-video episode index, and a handbook are maintained in `02-linux-for-cybersecurity/`.
-- CCNA: the learner previously said the course is in progress and requested that notes be deferred. See `03-networking/README.md`.
+- Networking: learning in progress. The section records the first three completed NetworkChuck videos and the first completed additional lecture; the next additional lecture is in progress. See `03-networking/README.md`.
 - Python: the repository includes notes for the Google Cybersecurity Certificate Python video. The learner reports completing the overall playlist; no separate Python certification or additional lab completion is claimed.
 - Standalone tools/labs: no lab results are recorded here.
 - Cloud Security: not yet started. The learner will provide the studied resource before topic notes are created.

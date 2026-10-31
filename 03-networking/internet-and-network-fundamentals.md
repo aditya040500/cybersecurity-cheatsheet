@@ -1,11 +1,11 @@
 # Internet and Network Fundamentals
 
-These notes combine the NetworkChuck video titled “What is a Network? - Day 0” with the completed first lecture in the additional networking series. The lecture series is the learner's primary networking source. Explanations here are original summaries, not transcripts.
+These notes combine the NetworkChuck video titled “What is a Network? - Day 0” with Lecture 01 of CS-340 Intro to Computer Networking, taught by Steve Tarzia. CS-340 is the learner's primary networking source. Explanations here are original summaries, not transcripts.
 
 ## Source coverage
 
 - NetworkChuck: [FREE CCNA - What is a Network? - Day 0](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=1)
-- Additional course: [Networking Lecture 01 - Introduction](https://www.youtube.com/watch?v=EN0efud3M5U&list=PLWl7jvxH18r3nnotitKkyAjq268PQGc0-&index=1)
+- Primary course: [CS-340 Intro to Computer Networking - Lecture 01: Introduction (Steve Tarzia)](https://www.youtube.com/watch?v=EN0efud3M5U&list=PLWl7jvxH18r3nnotitKkyAjq268PQGc0-&index=1)
 - The lecture description's outline includes Internet overview, network control and organization, Internet versus Web, distributed design, protocols, access networks, local-area networks, PSTN, DSL and cable access, wired and wireless media, circuit and packet switching, and performance measures. Its transcript was not available in the inspected page, so notes stay within those published chapter topics and standard technical definitions.
 
 Useful lecture timestamps from the published outline: [Internet overview, 4:45](https://www.youtube.com/watch?v=EN0efud3M5U&t=285s), [Internet vs. Web, 21:48](https://www.youtube.com/watch?v=EN0efud3M5U&t=1308s), [access networks and LANs, 33:01](https://www.youtube.com/watch?v=EN0efud3M5U&t=1981s), [DSL and cable, 44:41](https://www.youtube.com/watch?v=EN0efud3M5U&t=2681s), [network core, 56:24](https://www.youtube.com/watch?v=EN0efud3M5U&t=3384s), [packet switching, 1:02:05](https://www.youtube.com/watch?v=EN0efud3M5U&t=3725s), and [performance measures, 1:06:24](https://www.youtube.com/watch?v=EN0efud3M5U&t=3984s).
@@ -131,6 +131,6 @@ The angle-bracket values are placeholders; replace them with a local gateway or 
 ## References
 
 - [NetworkChuck - What is a Network? - Day 0](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=1)
-- [Networking Lecture 01 - Introduction](https://www.youtube.com/watch?v=EN0efud3M5U&list=PLWl7jvxH18r3nnotitKkyAjq268PQGc0-&index=1)
-- [Professor Steve Tarzia - CS-340 course materials](https://stevetarzia.com/teaching/)
+- [CS-340 Intro to Computer Networking - Lecture 01: Introduction (Steve Tarzia)](https://www.youtube.com/watch?v=EN0efud3M5U&list=PLWl7jvxH18r3nnotitKkyAjq268PQGc0-&index=1)
+- [Steve Tarzia - CS-340 course materials](https://stevetarzia.com/teaching/)
 - [RFC 1122 - Requirements for Internet Hosts](https://www.rfc-editor.org/rfc/rfc1122.html)
